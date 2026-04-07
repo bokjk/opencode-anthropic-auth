@@ -23,6 +23,7 @@ Add the plugin to your OpenCode configuration:
 {
   "plugin": ["@ex-machina/opencode-anthropic-auth@1.1.0"]
 }
+```
 
 ## Authentication Methods
 
